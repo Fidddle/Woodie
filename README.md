@@ -1,6 +1,4 @@
 ![alt text](https://raw.githubusercontent.com/Fidddle/Woodie/master/woodie-2.png)</br>
-<b>Automative people-spread corporate governance system.</b>
-
 
 ## What is Woodie?
 <p>
